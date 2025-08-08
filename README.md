@@ -1,4 +1,4 @@
-# sql-spotify-clone-project
+# sql-spotify-project
 Projeto de Banco de Dados inspirados no Spotify, usando o modelo E-R.
 
 ### Introdução
